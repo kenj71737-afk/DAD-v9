@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ALAD</string>
+    <string name="app_name_full">ALAD (دوبله زنده صوتی با هوش مصنوعی)</string>
+    <string name="system_status">وضعیت سیستم</string>
+    <string name="status_connected">دوبله زنده فعال است</string>
+    <string name="status_disconnected">آماده به کار (قطع)</string>
+    <string name="target_dubbing_language">زبان دوبله مقصد</string>
+    <string name="select_language">انتخاب زبان</string>
+    <string name="no_results_found">نتیجه‌ای یافت نشد</string>
+    <string name="floating_widget">ویجت شناور</string>
+    <string name="enable_overlay">جهت کنترل برنامه در پس‌زمینه فعال کنید</string>
+    <string name="grant_permission_widget">برای استفاده از ویجت اجازه دسترسی بدهید</string>
+    <string name="btn_stop">پایان دوبله</string>
+    <string name="btn_start">شروع دوبله</string>
+    <string name="settings">تنظیمات</string>
+    <string name="gemini_api_key">کلید API جمینای</string>
+    <string name="dubbing_volume">صدای هوش مصنوعی: %1$d%%</string>
+    <string name="original_volume">صدای اصلی ویدیو: %1$d%%</string>
+    <string name="volume_description">میزان صدای گوینده هوش مصنوعی و صدای ویدیوی اصلی را مستقل تنظیم کنید.</string>
+    <string name="save_settings">ذخیره تنظیمات</string>
+    <string name="settings_saved">تنظیمات ذخیره شد</string>
+    <string name="hide">مخفی</string>
+    <string name="show">نمایش</string>
+    <string name="get_api_key">دریافت کلید API جمینای</string>
+    <string name="api_key_guide">برای استفاده از برنامه، باید یک کلید API رایگان از Google AI Studio دریافت کنید.</string>
+    <string name="help_title">راهنمای استفاده از ALAD</string>
+    <string name="help_content">۱. به تنظیمات بروید و کلید API خود را وارد کنید.\n۲. زبان و لهجه مدنظر را انتخاب کنید.\n۳. میزان صدای دوبله و صدای ویدیوی اصلی را در میکسر صدا تنظیم کنید.\n۴. روی «شروع دوبله» کلیک کنید تا ترجمه همزمان آغاز شود.\n۵. در صورت بروز خطا در نصب روی گوشی‌های سامسونگ (One UI 6+)، قابلیت Auto Blocker را موقتاً در تنظیمات امنیت گوشی خاموش کنید.</string>
+    <string name="close">بستن</string>
+
+    <string name="voice_persona">صدای گوینده هوش مصنوعی</string>
+    <string name="voice_persona_desc">لحن و کاراکتر صدای گوینده جمینای را انتخاب کنید</string>
+    <string name="voice_puck">پاک (Puck - پرانرژی و دوستانه)</string>
+    <string name="voice_charon">کارون (Charon - بم و عمیق)</string>
+    <string name="voice_aoede">آئوده (Aoede - آرام و ملایم)</string>
+    <string name="voice_fenrir">فنریر (Fenrir - رسمی و رسا)</string>
+    <string name="voice_kore">کوره (Kore - لطیف و دلنشین)</string>
+
+    <string name="dubbing_mode">حالت ترجمه و دوبله</string>
+    <string name="mode_hybrid">صدا + زیرنویس زنده</string>
+    <string name="mode_audio_only">فقط دوبله صوتی</string>
+    <string name="mode_subtitle_only">فقط زیرنویس زنده (بی‌صدا)</string>
+    <string name="live_subtitles">زیرنویس همزمان</string>
+    <string name="subtitles_preview">رونوشت ترجمه همزمان</string>
+    <string name="subtitles_waiting">در انتظار دریافت گفتار...</string>
+
+    <!-- New v1.3.0 features -->
+    <string name="audio_mixer">میکسر دوگانه صدا</string>
+    <string name="dubbed_voice_volume">صدای دوبله هوش مصنوعی</string>
+    <string name="original_media_volume">صدای اصلی ویدیو</string>
+    <string name="target_dialect">لهجه و گویش محلی</string>
+    <string name="select_dialect">انتخاب لهجه (اختیاری)</string>
+    <string name="standard_dialect">معیار / پیش‌فرض</string>
+    <string name="dual_subtitles">زیرنویس دوزبانه زنده</string>
+    <string name="dual_subtitles_desc">نمایش متن گفتار اصلی به همراه ترجمه همزمان</string>
+    <string name="mute_dubbing">بی‌صدا کردن هوش مصنوعی</string>
+    <string name="mute_original">بی‌صدا کردن صدای اصلی</string>
+</resources>
